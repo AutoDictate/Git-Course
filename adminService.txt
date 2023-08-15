@@ -1,1 +1,4 @@
 This is Admin Page.
+
+Change the Rules
+Manage the Database.
