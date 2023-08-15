@@ -4,3 +4,5 @@ Adding version 2
 
 
 Create an Avatar for the user.
+
+Login and Logout.
