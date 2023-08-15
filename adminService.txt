@@ -17,3 +17,7 @@ Change 1 in Feature3.
 >>>>>>> feature2
 =======
 >>>>>>> feature2
+
+
+
+Change in Feature 3
