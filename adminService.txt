@@ -1,13 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is Admin Page.
 
 Change 1 in Feature3.
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> feature2
 This is failure
 =======
 This is Admin Page.
 
 Change 1 in Feature3.
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> feature2
+=======
 >>>>>>> feature2
